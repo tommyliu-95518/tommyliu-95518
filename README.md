@@ -39,7 +39,7 @@ A modern, responsive portfolio website showcasing my journey as a Full Stack Dev
 
 </div>
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -52,7 +52,7 @@ A modern, responsive portfolio website showcasing my journey as a Full Stack Dev
 
 </div>
 
-## 🛠️ Quick Start
+## Quick Start
 
 ```bash
 # Clone the repository
