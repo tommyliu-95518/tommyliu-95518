@@ -12,7 +12,7 @@ const fetcher = (url: string) => fetch(url).then(res => res.json());
 const Home = () => {
 	const [copied, setCopied] = useState(false);
 	const email = 'Tommy.Liu95518@outlook.com';
-	const whatsappNumber = '+916296554939';
+	const whatsappNumber = '+85292900412';
 
 	const { data: githubData } = useSWR('https://api.github.com/users/niladri-1', fetcher);
 	function formatRepoCount(count: number): string {
