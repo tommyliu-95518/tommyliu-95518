@@ -34,7 +34,7 @@ export const metadata: Metadata = {
 		card: 'summary_large_image',
 		title: 'Tommy Liu  - Full Stack Developer',
 		description: 'Full-stack developer specializing in MERN stack, React.js, Node.js, and modern web technologies.',
-		creator: '@niladri_dev',
+		creator: '@Tommyliu_dev',
 	},
 	robots: {
 		index: true,
